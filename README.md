@@ -1,6 +1,6 @@
 # YouTube-URL-Downloaded<br>
 Leo Guagenti -- 4/12/19<br>
-A program designed to automatically download the audio of given YouTube video URLs.<br><br>
+A console program designed to automatically download the audio of given YouTube video URLs.<br><br>
 
 ## Requirements:<br>
 1) Must have ffmpeg installed<br>
